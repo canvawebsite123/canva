@@ -42,7 +42,7 @@ function UploadImage() {
       <div>
         <label htmlFor="uploadImage">
           <h2
-            className="p-2 bg-amber-50 text-amber-700 rounded-md 
+            className="p-2 bg-primary hover:bg-amber-600/80 cursor-pointer text-white rounded-md 
                     text-center text-sm"
           >
             {loading ? (
